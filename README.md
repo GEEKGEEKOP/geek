@@ -1,6 +1,6 @@
 <div align="center" style="font-family: Arial, san
 
-<h1 style="font-size: 50px; color: #ff00ff;">Nathaly Lorena</h1>
+<h1 style="font-size: 50px; color: #ff00ff;">GEEKGEEKOP</h1>
 <br/>
 
 <div>

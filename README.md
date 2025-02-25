@@ -41,3 +41,6 @@
 
 ## 🏆 GitHub Streak
 ![GEEKGEEKOP's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GEEKGEEKOP&theme=radical)
+
+## ⚡ Activity
+![GEEKGEEKOP's Activity](https://github-readme-activity-graph.vercel.app/graph?username=geekgeekop&bg_color=false&color=b03a2e&line=b03a2e&point=403d3d&area=true&hide_border=true)

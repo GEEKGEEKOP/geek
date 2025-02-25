@@ -1,15 +1,43 @@
-<div align="center" style="font-family: Arial, san
+# Hi there, I'm GEEKGEEKOP 👋
 
-<h1 style="font-size: 50px; color: #ff00ff;">GEEKGEEKOP</h1>
-<br/>
+## About Me
+- 🎓 **Education**: High School (Mathematics Track)
+- 💼 **Current Role**: Programmer / Student
+- 🏢 **Company**: Not applicable
+- 🌍 **Location**: Iran
+- 📫 **Contact**: geekgeekop@yahoo.com / [LinkedIn](https://www.linkedin.com/in/geek-noroozi-564899334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-<div>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=geekgeekop&show_icons=true&title_color=ff4500&icon_color=ff4500&text_color=ffffff&bg_color=000000" alt="Estatísticas do GitHub" width="49%" />
+## 🔭 What I'm Working On
+- [Campute]
+- [---------]
+- [---------]
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=geekgeekop&theme=dark&background=000000&ring=ff4500&fire=ffffff&currStreakLabel=ff4500&sideNums=ffffff&dates=aaaaaa&sideLabels=ffffff" alt="Streak Stats" width="49%" />
+## 🌱 What I'm Learning
+- [Python]
+- [JavaScript]
+- [PHP]
 
-</div>
+## 👯 Let's Collaborate
+- Open Source Projects
+- Artificial Intelligence Projects
+- Practical Website Projects
+- Research Projects
 
-</div>
+## 💬 Ask Me About
+- [Programming (JavaScript, Python, etc.)]
+- [Mathematics]
+- [AI Projects]
+
+## 📈 GitHub Stats
+![GEEKGEEKOP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GEEKGEEKOP&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- [Email](geekgeekop@yahoo.com)
+- [LinkedIn](https://www.linkedin.com/in/geek-noroozi-564899334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Twitter](https://x.com/GeekgeekOp?t=EhazlH9mfqk-BcCS70dD_A&s=35)
+
+## ⚡ Fun Fact
+- [While I'm studying mathematics in high school, I'm also diving deep into programming! It’s pretty cool how my mathematical mindset and programming skills are both growing at the same time. Can’t wait to see where this combination takes me! 😄]
+
+## 🏆 GitHub Streak
+![GEEKGEEKOP's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GEEKGEEKOP&theme=radical)

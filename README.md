@@ -8,9 +8,9 @@
 - 📫 **Contact**: geekgeekop@yahoo.com / [LinkedIn](https://www.linkedin.com/in/geek-noroozi-564899334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🔭 What I'm Working On
+- [AI]
 - [Campute]
-- [---------]
-- [---------]
+- [Bot Social]
 
 ## 🌱 What I'm Learning
 - [Python]
